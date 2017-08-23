@@ -6,7 +6,14 @@
 
     <groupId>com.github.google-search-testing-framework</groupId>
     <artifactId>google-search-testing-framework</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>framework</module>
+        <module>domain</module>
+        <module>pageobjects</module>
+        <module>testcases</module>
+    </modules>
 
     <dependencies>
         <dependency>

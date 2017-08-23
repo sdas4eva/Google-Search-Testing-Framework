@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/git/Google-Search-Testing-Framework/google-search-testing-framework.iml" filepath="$USER_HOME$/git/Google-Search-Testing-Framework/google-search-testing-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-search-testing-framework.iml" filepath="$PROJECT_DIR$/google-search-testing-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pageobjects/pageobjects.iml" filepath="$PROJECT_DIR$/pageobjects/pageobjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testcases/testcases.iml" filepath="$PROJECT_DIR$/testcases/testcases.iml" />
     </modules>
   </component>
 </project>
