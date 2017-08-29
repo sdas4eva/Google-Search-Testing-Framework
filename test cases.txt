@@ -1,8 +1,8 @@
 [Search Functionality]
-Verify that the response fetched for a particular keyword is correct and related to the keyword, containing links to the particular webpage
-Verify that the response are sorted by relevancy in descending order i.e. most relevant result for the keyword are displayed on top
-Verify that response for multi word keyword is correct
-Verify that response for keywords containing alphanumeric and special characters is correct
+//Verify that the response fetched for a particular keyword is correct and related to the keyword, containing links to the particular webpage
+/Verify that the response are sorted by relevancy in descending order i.e. most relevant result for the keyword are displayed on top
+//Verify that response for multi word keyword is correct
+//Verify that response for keywords containing alphanumeric and special characters is correct
 Verify that the link title, URL and description have the keyword highlighted in the response
 Verify auto-suggestion in Google e.g. providing input as 'fac' should give suggestions like 'facebook', 'facebook massenger', 'facebook chat' etc
 Verify that response fetched on selecting the suggested keyword and on providing the keyword directly should be same
